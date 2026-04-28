@@ -10,3 +10,5 @@ categorization, building a searchable knowledge base for the community.
 
 
 lovable code
+
+clean code
