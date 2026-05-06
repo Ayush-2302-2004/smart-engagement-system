@@ -14,3 +14,5 @@ lovable code
 clean code
 
 Write clean code
+
+Good Code
