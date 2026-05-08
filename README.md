@@ -15,4 +15,4 @@ clean code
 
 Write clean code
 
-Good Code
+Write Good Code
